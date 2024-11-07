@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-# Classe base per il Professore
+
 class Professore:
     def __init__(self, nome, materia):
         self.nome = nome
